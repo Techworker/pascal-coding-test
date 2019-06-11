@@ -1,0 +1,15 @@
+{
+  "name": "pasc-coding-comp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pascalcoin-sbx/common": "0.0.18-alpha.0",
+    "@pascalcoin-sbx/json-rpc": "0.0.18-alpha.0"
+  }
+}
